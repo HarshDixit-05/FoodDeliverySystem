@@ -1,12 +1,15 @@
-#🍕 Online Food Delivery System - Core Java Project
+# **🍕 Online Food Delivery System - Core Java Project**
+
 Welcome to the Online Food Delivery System! This is a classic console-based application built entirely in Java, designed to simulate the core functionality of a modern food ordering platform. It's a great example of Object-Oriented Programming (OOP) principles in action, perfect for anyone looking to see how concepts like inheritance, polymorphism, and collections are used to build a real-world application.
 
-#🌟 About The Project
+## 🌟 About The Project
+
 This project brings a food delivery service to your terminal. It features two main roles: an Admin who manages the restaurants and delivery logistics, and a Customer who can browse, order, and enjoy delicious food. The entire system is self-contained and runs in the console, making it easy to compile and run without any external dependencies.
 
 The main goal was to create a robust and logical system using core Java features, demonstrating a clear separation of concerns between data models (entities), business logic (services), and the user interface (application).
 
-#✨ Features
+# ✨ Features
+
 The application provides a different set of options depending on the user's role:
 
 👤 Admin Menu
@@ -31,7 +34,7 @@ Place Orders: Convert the cart into a confirmed order.
 
 Track Orders: View a history of all placed orders and their current status.
 
-#🛠️ Built With
+# 🛠️ Built With
 Java: The one and only language used for this project.
 
 JDK 17: Developed using Java SE 17.
@@ -63,7 +66,7 @@ java -cp src com.tns.fooddeliverysystem.application.FoodDeliverySystem
 
 You should now see the main menu in your terminal!
 
-#📁 Project Structure
+# 📁 Project Structure
 The code is organized into three distinct packages for clarity and maintainability:
 
 com.tns.fooddeliverysystem.application: Contains the main FoodDeliverySystem.java class which handles all user input and console interaction.
