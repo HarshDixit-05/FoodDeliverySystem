@@ -12,7 +12,7 @@ The main goal was to create a robust and logical system using core Java features
 
 The application provides a different set of options depending on the user's role:
 
-👤 Admin Menu
+# 👤 Admin Menu
 
 Manage Restaurants: Add new restaurants to the system.
 
@@ -22,7 +22,7 @@ Order Oversight: View all customer orders in the system.
 
 Logistics: Add new delivery personnel and assign them to pending orders.
 
-🙋 Customer Menu
+# 🙋 Customer Menu
 
 Sign Up: Register as a new customer.
 
@@ -39,7 +39,7 @@ Java: The one and only language used for this project.
 
 JDK 17: Developed using Java SE 17.
 
-🚀 Getting Started
+# 🚀 Getting Started
 Ready to try it out? Here’s how to get the project running on your local machine.
 
 Prerequisites
